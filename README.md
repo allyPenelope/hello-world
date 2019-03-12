@@ -1,2 +1,2 @@
 # hello-world
-main hub from ideas
+Newbie to coding!
